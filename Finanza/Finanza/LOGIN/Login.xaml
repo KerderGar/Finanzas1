@@ -19,7 +19,7 @@
         </Rectangle>
         <Image Source="Imagen/icono_login.png" Margin="114,25,108,361" />
 
-        <Rectangle Width="280" Height="240" Fill="White" VerticalAlignment="Bottom" Margin="0,70" >
+        <Rectangle Width="280" Height="240" Fill="WhiteSmoke" VerticalAlignment="Bottom" Margin="0,70" >
             <Rectangle.Effect>
                 <DropShadowEffect Color="#FFD1CDCD" Direction="0" BlurRadius="15" RenderingBias="Quality" ShadowDepth="1" />
             </Rectangle.Effect>
