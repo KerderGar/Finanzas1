@@ -23,6 +23,7 @@ namespace Finanza
         public MainWindow()
         {
             InitializeComponent();
+            
         }
     }
 }
