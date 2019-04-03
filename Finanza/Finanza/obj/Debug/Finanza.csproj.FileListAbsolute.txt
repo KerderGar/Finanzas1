@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csprojAssemblyReference.cache
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\LOGIN\Login.g.cs
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza_MarkupCompile.cache
@@ -18,3 +19,26 @@ G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.cspro
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csproj.CopyComplete
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.exe
 G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.pdb
+=======
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\Finanza.exe.config
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\Finanza.exe
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\Finanza.pdb
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\MaterialDesignColors.dll
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csprojAssemblyReference.cache
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\LOGIN\Login.g.cs
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\App.g.cs
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza_MarkupCompile.cache
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza_MarkupCompile.lref
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\App.baml
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\LOGIN\Login.baml
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.g.resources
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.Properties.Resources.resources
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csproj.GenerateResource.cache
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csproj.CoreCompileInputs.cache
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.csproj.CopyComplete
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.exe
+E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.pdb
+>>>>>>> 284897172c7a8a2fb3fd181b083800e2d6dfa75a
