@@ -42,3 +42,4 @@ E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finan
 E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.exe
 E:\ELECTRA\UNI RUPAP IV SEMESTRE\FINANZAS I\PROYECTO DE FINANZAS\Finanzas1\Finanza\Finanza\obj\Debug\Finanza.pdb
 >>>>>>> 284897172c7a8a2fb3fd181b083800e2d6dfa75a
+G:\UNI\Finanzas BG\WPF project\Finanzas1\Finanza\Finanza\obj\Debug\App.baml
